@@ -27,5 +27,5 @@ public class CalculatorWS {
         int k = i+j;
         return k;
         //TODO write your implementation code here:
-        }
+    }
 }
